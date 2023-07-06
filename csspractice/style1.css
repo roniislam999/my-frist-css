@@ -1,0 +1,41 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.menu-container{
+    background-color: rgb(31, 30, 30);
+    text-align: justify;
+   padding:10px;
+    
+}
+.logo1{
+    width: 100px;
+    padding: 30px;
+    margin-left: 1px;
+}
+.menu-container{
+    color: white;
+}
+.menu-container{
+    list-style:none;
+    display: flex;
+    align-items:center;
+    /* justify-content:space-between */
+    justify-content: space-around
+    
+}
+.menus{
+    display: flex;
+
+}
+.item{
+    margin-right: 20px;
+    padding-right: 20px;
+    font-size: 18px;
+    cursor: pointer;
+    
+}
+.item:hover{
+    color: aqua;
+}
+

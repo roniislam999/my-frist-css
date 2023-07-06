@@ -1,0 +1,44 @@
+.header{
+    height: 300px;;
+    /* background-color: rgb(215, 157, 83); */
+    /* background-image: url('roni\ vai.jpg') ; */
+    background-image: url('../style/roni\ vai.jpg');
+    /* background-repeat: repeat-x; */
+    background-size: cover;
+    /* background-size: contain; */
+    /* background-size: 400px; */
+    background-color: purple;
+}      
+h3{
+
+    font-size: 30px;
+    text-decoration:overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+.blog{
+    margin: 40px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 20px blue;
+}
+.second{
+    color: aqua;
+    /* display: none; */
+    /* visibility: hidden; */
+    /* margin: 0px; */
+}
+.ratione{
+    margin:20px tomato;
+    padding: 10px;
+    font-size: 20px;
+    /* display: block; */
+    /* border-bottom: 20px; */
+    color:blueviolet;
+}
+.dolar{
+    border: 2px solid peru;
+    /* display: block; */
+    display: inline-block;
+}
+.sad{
+    color: blue;
+}
